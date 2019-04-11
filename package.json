@@ -1,0 +1,26 @@
+{
+  "name": "csv-parse-example",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilo86/csv-parse-example.git"
+  },
+  "keywords": [
+    "csv-parse",
+    "example"
+  ],
+  "author": "Camilo Gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/camilo86/csv-parse-example/issues"
+  },
+  "homepage": "https://github.com/camilo86/csv-parse-example#readme",
+  "dependencies": {
+    "csv-parse": "^4.4.0"
+  }
+}
